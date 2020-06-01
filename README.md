@@ -32,7 +32,8 @@
 - passport,
 - mongoose,
 - connect-flash,
-- express-session
+- express-session,
+- bootstrap 4.5,
 
 ## Jak uruchomić
 Aby uruchomić projekt, należy zainstalować go lokalnie przy użyciu npm:
