@@ -22,7 +22,7 @@ mongoose
     db,
     { useNewUrlParser: true }
   )
-  .then(() => console.log('MongoDB Connected'))
+  .then(() => console.log('Połączono z MongoDB'))
   .catch(err => console.log(err));
 
 // EJS
