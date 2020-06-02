@@ -2,21 +2,22 @@
 ## Zawartość dokumentacji
 * Główne informacje
 * Jak działa?
-* Dodatkowe funkcje
+* Dodatkowe inforamcje
 * Zdjęcia
 * Użyte technologie
 * Jak uruchomić
 
 ## Główne informacje
 
-
+Głównym celem aplikacji jest pomyślne przeprowadzenie procesu logowania się.
 	
 ## Jak działa?
 
+Aplikacja na początku wymaga od użytkownika założenia konta. Po wprowadzeniu prawidłowych i nieużywanych wartości takich jak chociażby adres e-mail pozwala nam utworzyć swoje konto na bazie MongoDB. Dzięki utworzeniu konta możemy pomyślnie zalogować się do aplikacji która przekieruje nas do następnej strony wraz z naszym zaszyfrowanym hasłem.
 
-## Dodatkowe funkcje
+## Dodatkowe informacje
 
-
+Aplikacja podczas tworzenia konta wymusza na użytkowniku użycia odpowiedniego adresu e-mail zawierającego symbol "@", a także sprawdza czy podane hasło zawiera przynajmniej 6 znaków.
 
 ## Zdjęcia
 
