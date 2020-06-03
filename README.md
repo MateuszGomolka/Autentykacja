@@ -43,4 +43,6 @@ Aby uruchomić projekt, należy zainstalować go lokalnie przy użyciu npm:
 $ npm install
 
 $ npm start
+
+$ localhost:5000
 ```
